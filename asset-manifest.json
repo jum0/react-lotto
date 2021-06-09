@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-lotto/static/css/main.bbc465f5.chunk.css",
-    "main.js": "/react-lotto/static/js/main.84862de0.chunk.js",
-    "main.js.map": "/react-lotto/static/js/main.84862de0.chunk.js.map",
+    "main.css": "/react-lotto/static/css/main.e116d499.chunk.css",
+    "main.js": "/react-lotto/static/js/main.6bae5ce6.chunk.js",
+    "main.js.map": "/react-lotto/static/js/main.6bae5ce6.chunk.js.map",
     "runtime-main.js": "/react-lotto/static/js/runtime-main.6ab85198.js",
     "runtime-main.js.map": "/react-lotto/static/js/runtime-main.6ab85198.js.map",
-    "static/js/2.8004b9f1.chunk.js": "/react-lotto/static/js/2.8004b9f1.chunk.js",
-    "static/js/2.8004b9f1.chunk.js.map": "/react-lotto/static/js/2.8004b9f1.chunk.js.map",
+    "static/js/2.7022f9ef.chunk.js": "/react-lotto/static/js/2.7022f9ef.chunk.js",
+    "static/js/2.7022f9ef.chunk.js.map": "/react-lotto/static/js/2.7022f9ef.chunk.js.map",
     "index.html": "/react-lotto/index.html",
-    "static/css/main.bbc465f5.chunk.css.map": "/react-lotto/static/css/main.bbc465f5.chunk.css.map",
-    "static/js/2.8004b9f1.chunk.js.LICENSE.txt": "/react-lotto/static/js/2.8004b9f1.chunk.js.LICENSE.txt"
+    "static/css/main.e116d499.chunk.css.map": "/react-lotto/static/css/main.e116d499.chunk.css.map",
+    "static/js/2.7022f9ef.chunk.js.LICENSE.txt": "/react-lotto/static/js/2.7022f9ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6ab85198.js",
-    "static/js/2.8004b9f1.chunk.js",
-    "static/css/main.bbc465f5.chunk.css",
-    "static/js/main.84862de0.chunk.js"
+    "static/js/2.7022f9ef.chunk.js",
+    "static/css/main.e116d499.chunk.css",
+    "static/js/main.6bae5ce6.chunk.js"
   ]
 }
